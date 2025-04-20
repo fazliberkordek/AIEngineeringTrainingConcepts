@@ -3,7 +3,7 @@
 Welcome to the **AI Engineering Training Concepts** repository! This project focuses on fine-tuning machine learning models tailored to client-specific requirements and provides foundational concepts in AI engineering.
 
 
-7. [License](#license)
+
 
 ## Project Overview
 
